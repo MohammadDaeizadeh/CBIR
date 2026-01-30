@@ -1,7 +1,112 @@
 {
-    "3eaff52b-e3b9-4680-ad47-03c12ee325f6": {
-        "path": "images_folder\\@Wallpaper_4K3D (10741).jpg",
+    "47b95517-528a-4b46-815c-9e7a31c55cbb": {
+        "path": "images_folder\\Batman\u0099_ Arkham Origins 1_9_2026 1_50_14 AM.png",
         "category": "images_folder",
-        "filename": "@Wallpaper_4K3D (10741).jpg"
+        "filename": "Batman\u0099_ Arkham Origins 1_9_2026 1_50_14 AM.png"
+    },
+    "28c9aca4-5113-45b8-beab-b7a3cbe80186": {
+        "path": "images_folder\\Batman\u0099_ Arkham Origins 1_9_2026 1_50_44 AM.png",
+        "category": "images_folder",
+        "filename": "Batman\u0099_ Arkham Origins 1_9_2026 1_50_44 AM.png"
+    },
+    "21546583-7f78-46a3-9595-619b69161fa2": {
+        "path": "images_folder\\Screenshot 2025-12-30 162500.png",
+        "category": "images_folder",
+        "filename": "Screenshot 2025-12-30 162500.png"
+    },
+    "75771860-6414-4477-9003-e740eff10fa6": {
+        "path": "images_folder\\WIN_20260109_18_12_44_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260109_18_12_44_Pro.jpg"
+    },
+    "6327347e-53e5-49a7-b223-23463b82626f": {
+        "path": "images_folder\\WIN_20260109_20_22_43_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260109_20_22_43_Pro.jpg"
+    },
+    "0337e492-02cc-4d06-ba60-170b7d4f82a8": {
+        "path": "images_folder\\WIN_20260110_16_59_01_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260110_16_59_01_Pro.jpg"
+    },
+    "fc106eb8-1233-4041-a541-8ec4263b7bb7": {
+        "path": "images_folder\\WIN_20260115_18_42_47_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260115_18_42_47_Pro.jpg"
+    },
+    "475b4fbb-348c-468e-9268-c2b3d365094d": {
+        "path": "images_folder\\WIN_20260115_20_08_12_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260115_20_08_12_Pro.jpg"
+    },
+    "dfe6e25a-bd3f-4144-93c1-969213c46f74": {
+        "path": "images_folder\\WIN_20260117_00_10_10_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260117_00_10_10_Pro.jpg"
+    },
+    "eec9b30a-3c3e-4ee6-84ed-c90e9c211f47": {
+        "path": "images_folder\\WIN_20260120_21_38_52_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260120_21_38_52_Pro.jpg"
+    },
+    "1e6d9dc6-ea99-454e-a1be-0003abe9984d": {
+        "path": "images_folder\\wp14599694-4k-ps5-batman-wallpapers.jpg",
+        "category": "images_folder",
+        "filename": "wp14599694-4k-ps5-batman-wallpapers.jpg"
+    },
+    "25e4d813-b26c-4d33-958f-d737a7b65d86": {
+        "path": "images_folder\\Batman\u0099_ Arkham Origins 1_9_2026 1_50_14 AM.png",
+        "category": "images_folder",
+        "filename": "Batman\u0099_ Arkham Origins 1_9_2026 1_50_14 AM.png"
+    },
+    "637e94c0-1ed7-46ea-bffd-d0403adefb96": {
+        "path": "images_folder\\Batman\u0099_ Arkham Origins 1_9_2026 1_50_44 AM.png",
+        "category": "images_folder",
+        "filename": "Batman\u0099_ Arkham Origins 1_9_2026 1_50_44 AM.png"
+    },
+    "d2c573fb-13b5-41e1-9605-189dedf5f677": {
+        "path": "images_folder\\Screenshot 2025-12-30 162500.png",
+        "category": "images_folder",
+        "filename": "Screenshot 2025-12-30 162500.png"
+    },
+    "e622dbb7-54c2-43e9-a976-2c96b5e9cafc": {
+        "path": "images_folder\\WIN_20260109_18_12_44_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260109_18_12_44_Pro.jpg"
+    },
+    "9dc44301-a32c-43e3-8127-8a993cd92004": {
+        "path": "images_folder\\WIN_20260109_20_22_43_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260109_20_22_43_Pro.jpg"
+    },
+    "706a69d9-bc96-42a2-924f-eb77aea7e803": {
+        "path": "images_folder\\WIN_20260110_16_59_01_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260110_16_59_01_Pro.jpg"
+    },
+    "6d4f51f0-34cb-4ca0-907e-1ae8b2aa3792": {
+        "path": "images_folder\\WIN_20260115_18_42_47_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260115_18_42_47_Pro.jpg"
+    },
+    "07903055-2bb6-4e6d-b4f2-e42024381cce": {
+        "path": "images_folder\\WIN_20260115_20_08_12_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260115_20_08_12_Pro.jpg"
+    },
+    "eb6d0789-b693-4ed9-af4b-41bb04bc217c": {
+        "path": "images_folder\\WIN_20260117_00_10_10_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260117_00_10_10_Pro.jpg"
+    },
+    "f0357599-c218-4450-84e1-d3a960cd7776": {
+        "path": "images_folder\\WIN_20260120_21_38_52_Pro.jpg",
+        "category": "images_folder",
+        "filename": "WIN_20260120_21_38_52_Pro.jpg"
+    },
+    "1d0a1f45-13b5-46f8-9a95-b9f80f0c56fd": {
+        "path": "images_folder\\wp14599694-4k-ps5-batman-wallpapers.jpg",
+        "category": "images_folder",
+        "filename": "wp14599694-4k-ps5-batman-wallpapers.jpg"
     }
 }
